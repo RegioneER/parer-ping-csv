@@ -95,7 +95,11 @@ Il file riporta i seguenti attributi / colonne da compilare opportutamente:
 
 ### Esempio di configurazione
 
-PING, allo stato dell'arte, non utilizza abilitazioni di questo genere non esponendo alcun servizio REST/SOAP.
+||||
+|---|---|---|
+|"APPLIC"|"NM_SERVIZIO_WEB"|"DS_SERVIZIO_WEB"|
+|"SACER_PREINGEST"|"AppInfo"|"Informazioni dell'applicazione"|
+
 
 # Requisiti e librerie utilizzate
 

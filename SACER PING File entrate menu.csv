@@ -4,7 +4,6 @@ APPLIC;NM_ENTRY_MENU;DS_ENTRY_MENU;NI_LIVELLO_ENTRY_MENU;NI_ORD_ENTRY_MENU;NM_EN
 "SACER_PREINGEST";"Menu.AmministrazioneTrasformazioni.MonitoraggioServerTrasformazioni";"Monitoraggio server trasformazioni";3;2;"Menu.AmministrazioneTrasformazioni";"MonitoraggioServerTrasformazioni.html?operation=loadKettleServersStatus&amp;cleanhistory=true"
 "SACER_PREINGEST";"Menu.AmministrazioneTrasformazioni.RicercaTrasformazioni";"Gestione trasformazioni";3;1;"Menu.AmministrazioneTrasformazioni";"RicercaTrasformazioni.html?operation=ricercaTrasformazioni&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.AmministrazioneSistema.GestioneCoda;Gestione Coda;3;3;Menu.AmministrazioneSistema;"Amministrazione.html?operation=ricercaMsgInCoda&amp;cleanhistory=true"
-"SACER_PREINGEST";Menu.AmministrazioneSistema.GestioneJob;Gestione Job legacy;3;2;Menu.AmministrazioneSistema;"GestioneJob.html?operation=gestioneJob&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.AmministrazioneSistema.GestioneJobRicerca;Gestione Job;3;1;Menu.AmministrazioneSistema;"GestioneJob.html?operation=gestioneJobRicercaPage&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.AmministrazioneSistema.GestioneSopClass;Gestione SOP Class;3;6;Menu.AmministrazioneSistema;"Amministrazione.html?operation=ricercaSopClassDicom&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.AmministrazioneSistema.ListaConfigurazioni;Registro parametri;3;5;Menu.AmministrazioneSistema;"Amministrazione.html?operation=loadListaConfigurazioni&amp;cleanhistory=true"
@@ -27,6 +26,7 @@ APPLIC;NM_ENTRY_MENU;DS_ENTRY_MENU;NI_LIVELLO_ENTRY_MENU;NI_ORD_ENTRY_MENU;NM_EN
 "SACER_PREINGEST";Menu.StrumentiUrbanistici;Strumenti urbanistici;2;5;Menu;
 "SACER_PREINGEST";Menu.Versamenti.StatoVersamenti;Ricerca oggetto;3;5;Menu.Versamenti;"VersamentoOggetto.html?operation=loadStatoVersamenti&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.Versamenti.VersamentoArchivio;Versamento da archivio;3;1;Menu.Versamenti;"VersamentoOggetto.html?operation=loadVersamentoArchivio&amp;cleanhistory=true"
+"SACER_PREINGEST";Menu.Versamenti.VersamentoFascicoli;Versamento fascicoli;3;4;Menu.Versamenti;"VersamentoOggetto.html?operation=loadVersamentoFascicoli&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.Versamenti.VersamentoOggetto;Versamento oggetto;3;2;Menu.Versamenti;"VersamentoOggetto.html?operation=loadVersamentoOggetto&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.Versamenti.VersamentoOggettoDaTrasf;Versamento oggetto da trasformare;3;3;Menu.Versamenti;"VersamentoOggetto.html?operation=loadVersamentoOggettoDaTrasf&amp;cleanhistory=true"
 "SACER_PREINGEST";Menu.Versamenti.VersamentoUnitaDoc;Versamento unità documentarie;3;4;Menu.Versamenti;"VersamentoOggetto.html?operation=loadVersamentoUnitaDoc&amp;cleanhistory=true"

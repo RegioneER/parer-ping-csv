@@ -99,6 +99,7 @@
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/associaSopClassButton";"Associa SOP CLASS a versatore"
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/cessaVersatore";"Cessazione versatore"
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/creaCartellaDaVersare";"Crea la cartella archivio per il versatore"
+"SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/creaCartellaPerAreaStaging";"Crea la cartella di staging per il versatore"
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/esportaVersatore";"Esporta versatore"
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#Vers/logEventi";"Log eventi"
 "SACER_PREINGEST";"/amministrazione/versDetail";"button/AmministrazioneForm#VersatoreCustomMessageButtonList/annullaModificheVersatore";"Annulla modifiche versatore"
